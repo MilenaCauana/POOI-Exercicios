@@ -2,7 +2,7 @@ public class Nacional{
     private String descricaoNac;
     private double valorNac;
     private float impostoNac = 0.1f; //Como o impostoNac é fixo, já o deixarei aqui
-    private float taxaNac = 0.5f;
+    private float taxaNac = 0.05f;
 
     //Construtores, criarei somente um construtor sem parâmetro
     public Nacional(){

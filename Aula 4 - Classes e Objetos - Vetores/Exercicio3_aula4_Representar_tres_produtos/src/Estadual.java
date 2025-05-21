@@ -44,6 +44,6 @@ public class Estadual{
         System.out.println("\nProduto: " + descricao);
         System.out.println("Valor original: " + valor);
         System.out.println("Imposto: " + imposto);
-        System.out.println("Valor final: " +  .valorFinal());
+        System.out.println("Valor final: " + valorFinal());
     }
 }

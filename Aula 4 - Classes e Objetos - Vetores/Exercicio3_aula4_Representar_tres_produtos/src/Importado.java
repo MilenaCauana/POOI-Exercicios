@@ -2,8 +2,8 @@ public class Importado{
     private String descricaoImp;
     private double valorImp;
     private float impostoImp = 0.1f; //Como o impostoImp é fixo, já o deixarei aqui
-    private float taxa = 0.5f;
-    private float taxaImportacao = 0.5f;
+    private float taxa = 0.05f;
+    private float taxaImportacao = 0.05f;
 
     //Construtores, criarei somente um construtor sem parâmetro
     public Importado(){

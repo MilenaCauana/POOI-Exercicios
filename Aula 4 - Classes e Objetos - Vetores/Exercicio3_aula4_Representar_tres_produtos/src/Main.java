@@ -101,7 +101,7 @@ public class Main{
                 System.out.println("\n\n--Produtos Estaduais--");
 
                 for (int i = 0; i < contEst; i++){
-                    estadual[contEst].exibir();
+                    estadual[i].exibir();
                 }
             }
 
@@ -110,7 +110,7 @@ public class Main{
                 System.out.println("\n\n--Produtos Nacionais--");
 
                 for (int i = 0; i < contNac; i++){
-                    nacional[contNac].exibir();
+                    nacional[i].exibir();
                 }
             }
 
@@ -119,7 +119,7 @@ public class Main{
                 System.out.println("\n\n--Produtos Importados--");
 
                 for (int i = 0; i < contImp; i++){
-                    importado[contImp].exibir();
+                    importado[i].exibir();
                 }
             }
 
